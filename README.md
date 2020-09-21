@@ -5,6 +5,6 @@
 - Online  website link [GallryArt](https://rashaabdulrazzak.github.io/GalleryArt/) 
 - link to the application [GalleryArtApp](https://alive-industry-0188.glideapp.io/)
 - screen shot of the application
-![gallery art aplication](https://github.com/rashaabdulrazzak/GalleryArt/blob/master/images/sreenapp.png)
+![gallery art aplication](https://github.com/rashaabdulrazzak/GalleryArt/blob/master/images/appscreen.png)
 - screen shot of the landing page
 ![Gallery Art landing page](https://github.com/rashaabdulrazzak/GalleryArt/blob/master/images/sreen.png)
