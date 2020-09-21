@@ -1,0 +1,55 @@
+body {
+    font-family: "Open Sans", sans-serif;
+  }
+
+  .navbar {
+    box-shadow: none;
+  }
+
+  .mt-3 {
+    margin-top: 3rem;
+  }
+
+  .round {
+    border-radius: 30px;
+  }
+
+  .pt {
+    padding: 2rem;
+  }
+
+  .collect {
+    padding: 4rem;
+  }
+
+  .center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  content {
+    margin: 5rem;
+  }
+
+  .has-text-orange {
+    color: #ff9800 !important;
+  }
+
+  .has-background-orange {
+    background-color: #ff9800 !important;
+  }
+
+  .hero {
+    background-image: url(../images/banner-bg.jpg);
+    background-size: cover;
+  }
+
+  .bg-2 {
+    background-image: url(../images/elipse-bg.png);
+    background-size: cover;
+  }
+
+  .box {
+    box-shadow: none;
+  }
